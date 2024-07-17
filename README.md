@@ -1,4 +1,4 @@
-### Hi there 👋 lEARN ABOUT NLP IN MY LATEST POST: https://medium.com/the-modern-scientist/natural-language-processing-nlp-b735dd8849f1
+### Hi there 👋 LEARN ABOUT NLP IN MY LATEST POST: https://medium.com/the-modern-scientist/natural-language-processing-nlp-b735dd8849f1
 
 <!--
 **ErosFortea/erosfortea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
